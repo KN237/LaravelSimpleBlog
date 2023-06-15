@@ -1,7 +1,7 @@
 
 
 # LaraTodo
-This is a simple Blog I created using just Laravel
+This is a simple Blog I created using just Laravel !
 
 <img src="blog1.PNG" />
 <img src="blog2.PNG" />
